@@ -32,4 +32,5 @@ class ProgressBar(object):
         if self.count >= self.total:
             end_str = '\n'
             self.status = status or self.fin_status
+        print(end="")
         print(self.__get_info(), end=end_str)
