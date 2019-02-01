@@ -5,4 +5,7 @@ Git学习-廖雪峰的官方网站
 利用Gitee搭建私人仓库-https篇
 https://blog.csdn.net/weixin_42831477/article/details/81298378
 
+在Github和Git上fork之简单指南
+https://linux.cn/article-4292-1-rss.html
+
 
