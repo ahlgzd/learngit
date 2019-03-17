@@ -8,4 +8,6 @@ https://blog.csdn.net/weixin_42831477/article/details/81298378
 在Github和Git上fork之简单指南
 https://linux.cn/article-4292-1-rss.html
 
+https://blog.csdn.net/horacehe16/article/details/82873132
+Pycharm安装码云gitee插件
 
