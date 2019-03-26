@@ -11,4 +11,6 @@ https://linux.cn/article-4292-1-rss.html
 在PyCharm或IDEA中使用Gitee
 https://blog.csdn.net/horacehe16/article/details/82873132
 
+git官方教程（中文版）
+https://git-scm.com/book/zh/
 
