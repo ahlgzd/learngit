@@ -14,3 +14,5 @@ https://blog.csdn.net/horacehe16/article/details/82873132
 git官方教程（中文版）
 https://git-scm.com/book/zh/
 
+在VSCode中使用码云(Gitee)进行代码管理
+https://blog.csdn.net/watfe/article/details/79761741
